@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Burpy", "Burpy\Burpy.shproj", "{FA0410AE-8DD8-4696-A499-FEB2D5E5027F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Burpy.Droid", "Droid\Burpy.Droid.csproj", "{425EF143-FC3B-4F20-950C-E9053F77CCFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{425EF143-FC3B-4F20-950C-E9053F77CCFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{425EF143-FC3B-4F20-950C-E9053F77CCFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{425EF143-FC3B-4F20-950C-E9053F77CCFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{425EF143-FC3B-4F20-950C-E9053F77CCFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
